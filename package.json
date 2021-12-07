@@ -20,7 +20,7 @@
     "mongoose": "^6.0.13",
     "to": "^0.2.9",
     "update": "^0.4.2",
-    "node": "^16.13.0"
+    "node": "16.13.0"
   },
   "devDependencies": {
     "faker": "5.5.3",
